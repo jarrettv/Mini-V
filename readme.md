@@ -19,13 +19,13 @@ Mini-V is a compact core-xy printer with a build volume of 180mm³ using 2020 ex
 
 ## Footprint Comparison
 
-| Printer       | Print Area | Footprint | Efficiency | Note
-| ---           | ---        | ---       | ---        | ---
-| **Mini-V**    | 180x180    | 360x360   | 50%        | Flush panels
-| Tiny-T        | 150x150    | 370x370   | 40%        | With panels and clips on
-| Salad Fork 160| 160x160    | ?         | ?          |
-| Micron+       | 180x180    | ?         | ?          |
-| Trident 250   | 250x250    | 426x426   | 58%        | Doesn't include air filter
+| Printer         | Type  | Print Area | Footprint | Efficiency | Note
+| ---             | ---   | ---        | ---       | ---        | ---
+| **Mini-V**      | 2020  | 180x180    | 360x360   | 50%        | Flush panels
+| Tiny-T          | 2020  | 150x150    | 370x370   | 40%        | With panels and clips on
+| SaladFork       | 1515  | 160x160    | ?         | ?          |
+| Micron+         | 1515  | 180x180    | ?         | ?          |
+| Trident         | 2020  | 250x250    | 426x426   | 58%        | Doesn't include air filter
 
 Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rods"
 
