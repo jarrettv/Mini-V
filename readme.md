@@ -19,7 +19,7 @@ Mini-V is a compact core-xy printer with a build volume of 180mm³ using 2020 ex
 
 ## Footprint Comparison
 
-| Printer         | Type  | Print Area | Footprint | Efficiency | Note
+| Printer         | Frame | Print Area | Footprint | Efficiency | Note
 | ---             | ---   | ---        | ---       | ---        | ---
 | **Mini-V**      | 2020  | 180x180    | 360x360   | 50%        | Flush panels
 | Tiny-T          | 2020  | 150x150    | 370x370   | 40%        | With panels and clips on
