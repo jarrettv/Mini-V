@@ -7,16 +7,20 @@ Mini-V is a compact core-xy printer with a build volume of 180mm³ using 2020 ex
   <img width="600" src="images/Mini-V_back_right_left.jpg">
 </p>
 
-- Easy to build with 2020 extrusions
-- Flush panel enclosure design
-- Easy access electronics
-- Fold down tough door
-- Lightweight and accurate z-probe (tap/boop)
-- Automatic bed leveling
-- Dual-mag Kinematic bed
-- CAN based toolhead with dual 4010 part cooling
-- Designed for E3EZ control board
-- 100% M3 SHCS
+- Easy to build 2020 box design ✅
+- Super light carbon fiber rods ✅
+- Flush panels enclosure ✅
+- Easy access electronics and host ports ✅
+- Fold down tough door ⚠️
+- Lightweight and accurate z-probe (CF boop?) ⚠️
+- Automatic bed leveling ✅
+- Dual-mag Tri-mount Stay-put Kinematic bed 😅 ✅
+- CAN based toolhead with dual 4010 part cooling ⚠️
+- Plenty of umbilical/PTFE tube headroom ✅
+- Dedicated high-voltage and low-voltage areas ✅
+- No drag chains ✅
+- Designed for E3EZ control board ✅
+- Mostly M3 SHCS and easy to source hardware ✅
 
 ## Footprint Comparison
 
@@ -35,13 +39,11 @@ Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rod
 * <strike>Electronics</strike> and AB motors getting too hot
 * Flush panels taped on and rattling
 * <strike>PTFE tube rubbing on belts</strike>
-* Current toolhead hitting front guidlers
+* Current toolhead hitting front guidlers (need to recover 1mm each side)
   - Extra cross bracing?
 * <strike>Missing wago mounts</strike>
 * 2 hump on Y (measured with EBB toolhead)
-* Fold down door design
-* Weak tensioner front of motor mounts
-* Some BHCS remain, almost 100% M3 SHCS
+* Some BHCS can be designed away so almost 100% M3 SHCS
 
 ## Major BOM Components
 
@@ -69,9 +71,9 @@ Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rod
 ## Pending Improvements
 
 - Better Y mounts and screw locations
-- 100% SHCS screws, only a few BHCS remain in this design
+- Better X rail mount using CAD simulation
 - Cross-bracing?
-- Lighting?
+- LED lighting? Yes please
 - Belt tension measurement notches
 - AB motor improved tension design with captured nut
 
