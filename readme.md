@@ -3,16 +3,17 @@
 Mini-V is a compact core-xy printer with a build volume of 180mm³ using 2020 extrusions. The printer is designed to maximize print volume with a minimal footprint.
 
 <p align="center">
-  <img width="600" src="images/concept.png">
+  <img width="600" src="images/Mini-V_prototype_june_2023.jpg">
+  <img width="600" src="images/Mini-V_back_right_left.jpg">
 </p>
 
-- Efficient build volume vs footprint
 - Easy to build with 2020 extrusions
 - Flush panel enclosure design
+- Easy access electronics
 - Fold down tough door
 - Lightweight and accurate z-probe (tap/boop)
 - Automatic bed leveling
-- Kinematic bed mount
+- Dual-mag Kinematic bed
 - CAN based toolhead with dual 4010 part cooling
 - Designed for E3EZ control board
 - 100% M3 SHCS
@@ -31,13 +32,12 @@ Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rod
 
 ## Current Challenges
 
-* Bed comes off too easily
-* Electronics and AB motors getting too hot
+* <strike>Electronics</strike> and AB motors getting too hot
 * Flush panels taped on and rattling
-* PTFE tube rubbing on belts
+* <strike>PTFE tube rubbing on belts</strike>
 * Current toolhead hitting front guidlers
   - Extra cross bracing?
-* Missing wago mounts
+* <strike>Missing wago mounts</strike>
 * 2 hump on Y (measured with EBB toolhead)
 * Fold down door design
 * Weak tensioner front of motor mounts
@@ -71,7 +71,7 @@ Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rod
 - Better Y mounts and screw locations
 - 100% SHCS screws, only a few BHCS remain in this design
 - Cross-bracing?
-- Lighting
+- Lighting?
 - Belt tension measurement notches
 - AB motor improved tension design with captured nut
 
