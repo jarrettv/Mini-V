@@ -11,11 +11,11 @@ Mini-V is a compact core-xy printer with a build volume of 180mm³ using 2020 ex
 - Super light carbon fiber rods ✅
 - Flush panels enclosure ✅
 - Easy access electronics and host ports ✅
-- Fold down tough door ⚠️
-- Lightweight and accurate z-probe (CF boop?) ⚠️
+- Fold down tough door  ✅
+- Worry-free perfect first layers with Boop
 - Automatic bed leveling ✅
 - Dual-mag Tri-mount Stay-put Kinematic bed 😅 ✅
-- CAN based toolhead with dual 4010 part cooling ⚠️
+- CAN based toolhead with dual 4010 part cooling ✅
 - Plenty of umbilical/PTFE tube headroom ✅
 - Dedicated high-voltage and low-voltage areas ✅
 - No drag chains ✅
@@ -48,19 +48,22 @@ Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rod
 ## Major BOM Components
 
 - 4x Misumi HFSB5-2020-430-LCP-RCP-AV260 corner extrusions
-- 10x Misumi HFSB5-2020-270-TPW top and bottom extrusions
+- 7x Misumi HFSB5-2020-270-TPW top and bottom extrusions
 - 12x Carbon Fiber Rod 5mm Ø by 270mm long
 - 6x Metal Rod 5mm Ø by 80mm long
 - 6x Linear Rail MGN9H 220mm
 - 180mm² or 185mm² MIC6 bed
 - 180mm² PEI flex build plate
 - 150mm² 300w AC heating pad and SSR
-- Extruder and hotend of your choice
+- Extruder of your choice (LGX-lite, Orbiter2, Galileo2)
+- Hotend of your choice (Revo or Rapido2)
 - 2x NEMA 17 XY stepper motor
-- 3x Z Stepper motor with 200mm integrated lead screw
+- 3x Z Stepper motor with 200mm integrated lead screw (220mm perferred)
 - 2x 150cm GATE 6mm GT2 open belt
 - 3x Steel balls 10mm M4 threaded (must be magnetic)
-- 6x Rectangular strip rare earth magnets 20x10x5mm 
+- 6x Rectangular high-temp magnets 20x10x5mm
+- 4x F623-RS Bearings (guidelers)
+- 24x F695 Bearings
 - 2x 4010 24V blower fan (part cooling)
 - 1x 3010 24V axial fan (hotend)
 - 1x 4010 24V axial fan (electronics)
@@ -70,15 +73,11 @@ Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rod
 
 ## Pending Improvements
 
-- Better Y mounts and screw locations
-- Better X rail mount using CAD simulation
-- Cross-bracing?
 - LED lighting? Yes please
-- Belt tension measurement notches
-- AB motor improved tension design with captured nut
+- Move Belt tensioning system?
 
-## Mods
+## Adopted Mods
+Although Mini-V is almost a completely custom design, it does utilize the following community designs:
 
-- [Boop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Single_MGN9H_Carriage) by `MasterMynd`
-- [ProtoXtruder](https://github.com/nhchiu/VoronMods/blob/main/Extruders/ProtoXtruder/README.md) by `nhchui`
+- [Boop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Single_MGN9H_Carriage) by `MasterMynd` 
 - [DragonBurner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by `chirpy2605`
