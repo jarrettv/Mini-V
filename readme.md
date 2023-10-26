@@ -11,10 +11,11 @@ Mini-V is a compact core-xy printer with a build volume of 180mm³ using 2020 ex
 - Super light carbon fiber rods ✅
 - Sleek flush panels enclosure ✅
 - Quick access electronics and host ports ✅
-- Fast removable magnetic door and panels ✅
+- Fold-down door and removable mag panels ✅
 - Consistently perfect first layers with Boop
 - Automatic bed leveling ✅
-- Hi-temp Dual-mag Tri-mount Stay-put Kinematic bed 😅 ✅
+- Easy belt tensioning
+- Hi-temp Dual-mag Tri-mount Stay-put kinematic bed 😅 ✅
 - CAN based toolhead with dual 4010 part cooling ✅
 - Extra headroom for umbilical/PTFE tube ✅
 - Dedicated high-voltage and low-voltage areas ✅
@@ -29,21 +30,24 @@ Mini-V is a compact core-xy printer with a build volume of 180mm³ using 2020 ex
 | **Mini-V**      | 2020  | 180x180    | 360x360   | 50%        | Flush panels
 | Tiny-T          | 2020  | 150x150    | 370x370   | 40%        | With panels and clips on
 | SaladFork       | 1515  | 160x160    | ?         | ?          |
-| Micron+         | 1515  | 180x180    | ?         | ?          |
+| Micron+         | 1515  | 180x180    | ~360x360  | 50%        | Same footprint, shorter due to less Z
 | Trident         | 2020  | 250x250    | 426x426   | 58%        | Doesn't include air filter
 
 Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rods"
 
-## Current Challenges
+## Manual
 
-* <strike>Electronics</strike> and AB motors getting too hot
-* Flush panels taped on and rattling
-* <strike>PTFE tube rubbing on belts</strike>
-* Current toolhead hitting front guidlers (need to recover 1mm each side)
-  - Extra cross bracing?
-* <strike>Missing wago mounts</strike>
+There is no manual available yet but please check the (Build Steps)[./Build_Steps.md]
+
+## Pending Improvements
+
+* Wago mounts
+* Bottom panel (as recommended by SteveBuilds)
+* E-bay cooling flow one side to other
+* Redesign side panels and ebay sides (less plastic)
 * 2 hump on Y (measured with EBB toolhead)
-* Some BHCS can be designed away so almost 100% M3 SHCS
+* Replace neodymium magnets under bed with samarian cobalt magnets
+* Replace boop with under bed piezo sensor?
 
 ## Major BOM Components
 
@@ -70,11 +74,6 @@ Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rod
 - 4x Rubber feet (amplifier)
 - BTT E3EZ 5 stepper control board
 - BTT EBB36 CAN toolhead board
-
-## Pending Improvements
-
-- LED lighting? Yes please
-- Move Belt tensioning system?
 
 ## Adopted Mods
 Although Mini-V is almost a completely custom design, it does utilize the following community designs:
