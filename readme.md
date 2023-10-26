@@ -78,5 +78,5 @@ There is no manual available yet but please check the [Build Steps](https://gith
 ## Adopted Mods
 Although Mini-V is almost a completely custom design, it does utilize the following community designs:
 
-- [Boop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Single_MGN9H_Carriage) by `MasterMynd` 
+- [Boop](https://github.com/PrintersForAnts/Boop) by `MasterMynd` 
 - [DragonBurner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by `chirpy2605`
