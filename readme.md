@@ -37,7 +37,7 @@ Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rod
 
 ## Manual
 
-There is no manual available yet but please check the (Build Steps)[./Build_Steps.md]
+There is no manual available yet but please check the [Build Steps](https://github.com/jarrettv/Mini-V/blob/main/docs/Build_Steps.md)
 
 ## Pending Improvements
 
