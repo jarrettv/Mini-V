@@ -11,7 +11,7 @@ Mini-V is a compact core-xy printer with a build volume of 180mm³ using 2020 ex
 - Super light carbon fiber rods ✅
 - Sleek flush panels enclosure ✅
 - Quick access electronics and host ports ✅
-- Fold-down door and removable mag panels ✅
+- Fold-down door and easy to remove top panel ✅
 - Consistently perfect first layers with Boop
 - Automatic bed leveling ✅
 - Easy belt tensioning
@@ -56,4 +56,4 @@ Although Mini-V is almost a completely custom design, it does utilize the follow
 
 - [Boop](https://github.com/PrintersForAnts/Boop) by `MasterMynd` 
 - [DragonBurner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by `chirpy2605`
-- Inspiration from Voron Trident and Tiny-T
+- Inspiration from Voron Trident and is derived from Tiny-T frame dimensions
