@@ -22,28 +22,7 @@ Mini-V is a compact core-xy printer with a build volume of 180mm³ using 2020 ex
 - Designed for E3EZ control board ✅
 - Mostly M3 SHCS and easy to source hardware ✅
 
-## Footprint Comparison
-
-| Printer         | Frame | Print Area | Footprint | Efficiency | Note
-| ---             | ---   | ---        | ---       | ---        | ---
-| **Mini-V**      | 2020  | 180x180    | 360x360   | 50%        | Flush panels
-| Tiny-T          | 2020  | 150x150    | 370x370   | 40%        | With panels and clips on
-| SaladFork       | 1515  | 160x160    | ?         | ?          |
-| Micron+         | 1515  | 180x180    | ?         | ?          |
-| Trident         | 2020  | 250x250    | 426x426   | 58%        | Doesn't include air filter
-
 Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rods"
-
-## Current Challenges
-
-* <strike>Electronics</strike> and AB motors getting too hot
-* Flush panels taped on and rattling
-* <strike>PTFE tube rubbing on belts</strike>
-* Current toolhead hitting front guidlers (need to recover 1mm each side)
-  - Extra cross bracing?
-* <strike>Missing wago mounts</strike>
-* 2 hump on Y (measured with EBB toolhead)
-* Some BHCS can be designed away so almost 100% M3 SHCS
 
 ## Major BOM Components
 
@@ -58,10 +37,10 @@ Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rod
 - Extruder of your choice (LGX-lite, Orbiter2, Galileo2)
 - Hotend of your choice (Revo or Rapido2)
 - 2x NEMA 17 XY stepper motor
-- 3x Z Stepper motor with 200mm integrated lead screw (220mm perferred)
+- 3x Z Stepper motor with 200mm integrated lead screw (220mm preferred)
 - 2x 150cm GATE 6mm GT2 open belt
 - 3x Steel balls 10mm M4 threaded (must be magnetic)
-- 6x Rectangular high-temp magnets 20x10x5mm
+- 6x Rectangular high-temp magnets 20x10x5mm, (SaCo preferred)
 - 4x F623-RS Bearings (guidelers)
 - 24x F695 Bearings
 - 2x 4010 24V blower fan (part cooling)
@@ -71,13 +50,9 @@ Build log here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rod
 - BTT E3EZ 5 stepper control board
 - BTT EBB36 CAN toolhead board
 
-## Pending Improvements
-
-- LED lighting? Yes please
-- Move Belt tensioning system?
-
 ## Adopted Mods
 Although Mini-V is almost a completely custom design, it does utilize the following community designs:
 
 - [Boop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Single_MGN9H_Carriage) by `MasterMynd` 
 - [DragonBurner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by `chirpy2605`
+- Inspiration from Voron Trident and Tiny-T
