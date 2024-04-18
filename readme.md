@@ -2,6 +2,10 @@
 
 Mini-V is a compact core-xy printer with a build volume of 180mm³ using 2020 extrusions. The printer is designed to maximize print volume with a minimal footprint.
 
+*The design is stable with over 400 hours of print time on two alpha builds. As of spring 2024 we are entering an open beta and looking for early adopters.*
+
+__New images coming soon__
+
 <p align="center">
   <img width="600" src="images/Mini-V_prototype_june_2023.jpg">
   <img width="600" src="images/Mini-V_back_right_left.jpg">
