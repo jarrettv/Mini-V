@@ -1,22 +1,27 @@
-# Specs
+# Specifications
 
-| ---------------- | ----------------------------------|
-| Print Size       | 180mm³ |
+|  |  |
+| ---------------- | ---------------------------------- |
+| Print Size       | 180mm³ ♦️|
 | Kinematics       | Core-XY |
 | Extrusions       | 2020 |
 | Structure        | 5mm CF Rods |
-| Enclosure        | Flush |
+| Enclosure        | Yes, flush |
 | Door             | Fold-down |
 | Bed Leveling     | 3-point Automatic |
 | Z Accuracy       | ~0.0004mm |
-| A/B Voltage      | 48v |
+| A/B Voltage      | 48v 🔰 |
 | Belts            | 2MGT (GT3) |
 | Toolhead Board   | EBB36 |
-| Mainboard        | E3EZ  |
+| Mainboard        | E3EZ |
 | Host CPU         | Pi CM4 |
 | Extruder         | G2 |
-| Print Cooling    | Dual 40x10 Blowers |
+| Hotend Cooling   | 30x10 Axial |
+| Part Cooling     | Dual 40x10 Blowers |
 | Hardware         | M3 SHCS 98% |
 | Nozzle           | High-flow |
 | Bed Heater       | 300W 120V |
-| Benchy           | Quality 9m 44s |
+| Rear-clearance   | Minimal   |
+| Speed Benchy     | Very fast |
+
+♦️ Note: all specs are for the default build. Although 180mm build height is possible, with V0 integrated lead screw motors, we will target 170mm.
