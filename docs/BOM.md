@@ -1,7 +1,7 @@
 
 | Quantity | Part                                        | For                | Sources                             |
 | -------- | --------------------------------------------| ------------------ | ----------------------------------- |
-| 4        | HFSB5-2020-430-LCP-RCP                      | Corners            | Misumi, Dllpdf, Amazon (DIY)        |
+| 4        | HFSB5-2020-440-LCP-RCP                      | Corners            | Misumi, Dllpdf, Amazon (DIY)        |
 | 8        | HFSB5-2020-270-TPW                          | Tops/bottoms       | Misumi, Dllpdf, Amazon (DIY)        |
 | 6        | MGN9 Linear Rail 220mm length               | Motion             | Fabreeko, Ali                       |
 | 2        | GATES GT3 6mm open belt ~150cm              | Motion             | Filastruder                         |

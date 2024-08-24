@@ -5,8 +5,6 @@ docs: double check parts count
 
 alpha: bed fuse
 alpha: microfit disconnect for bed
-alpha: mv logo dragonburner
-alpha: fix front left guidler washers in wrong place
 alpha: LED lighting
 alpha: bottom HV cover
 alpha: ebay fan

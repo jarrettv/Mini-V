@@ -21,6 +21,7 @@
 * __2023 September__ Tiny-T is torn down to rebuild as Mini-V alpha
 * __2023 September__ Blue and Mini-V prototype print Mini-V alpha
 * __2023 September__ Mini-V alpha shown at ERRF (printopia)
-* __2023 April__ Blue and Mini-V alpha prints Mini-V beta
-* __2023 April__ Mini-V beta shown at RMRRF
+* __2024 April__ Blue and Mini-V alpha prints Mini-V pre-beta parts
+* __2024 April__ Mini-V pre-beta shown at RMRRF
+* __2024 June__ Beta files released as open source
 

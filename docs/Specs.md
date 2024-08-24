@@ -1,6 +1,6 @@
 # Specifications
 
-|  |  |
+|  Spec | Desc |
 | ---------------- | ---------------------------------- |
 | Print Size       | 180mm³ ♦️|
 | Kinematics       | Core-XY |
