@@ -28,9 +28,9 @@ __New images coming soon__
 
 Prototype build log on Discord here: #"jv's Mini-V a custom compact 180³ build using 2020 and CF rods"
 
-- [Specs] for detailed specifications
-- [BOM](./docs/BOM.md) for full Bill of Materials
-- [Printing Parts](./docs/PrintingParts.md) for slicer settings and tips
+- [Specs](./docs/Specs.md) for detailed specifications
+- [BOM](./docs/BOM.md) for bill of materials
+- [Printing Parts](./docs/PrintingParts.md) for slicer settings and print tips
 - [Build Guide](./docs/BOM.md) for step-by-step build instructions
 - [Startup Config](./docs/StartupConfig.md) for Klipper configuration and startup routine
 - [RepRap History](./docs/RepRapHistory.md) for how this open source printer evolved
