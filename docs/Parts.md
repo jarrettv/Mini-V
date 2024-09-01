@@ -13,3 +13,7 @@
 | gantry_XY_Joint_Top / Bot           |  6.5g  | 4   | 26.0g  |        |
 | gantry_XY_Joint_X_Rail_Mount        |  7.0g  | 2   | 14.0g  |        |
 | gantry_X_Rail_Mid_Mount             |  5.5g  | 2   | 11.0g  |        |
+| bed_Front_Z_Rail_Mount              |  4.0g  | 6   | 24.0g  |        |
+| bed_Front_Z_Rail_Panel_Low/Up_Mount |  4.0g  | 4   | 16.0g  |        |
+| ebay_High/Low_Voltage_Side          | 25.0g  | 2   | 50.0g  |        |
+
