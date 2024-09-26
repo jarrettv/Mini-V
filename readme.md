@@ -4,11 +4,10 @@ Mini-V is a compact core-xy printer with a build volume of 180mm³ using 2020 ex
 
 *The design is stable with over 400 hours of print time on two alpha builds. As of mid-2024 we are entering an open beta and looking for early adopters.*
 
-__New images coming soon__
+__More images coming soon__
 
 <p align="center">
-  <img width="600" src="images/Mini-V_prototype_june_2023.jpg">
-  <img width="600" src="images/Mini-V_back_right_left.jpg">
+  <img width="600" src="images/Mini-V_Front_sept_2024.jpg">
 </p>
 
 - Easy to build 2020 box design ✅
@@ -40,7 +39,6 @@ Prototype build log on Discord here: #"jv's Mini-V a custom compact 180³ build 
 ## Adopted Community Designs
 Although Mini-V is almost a completely custom design, it does utilize the following community designs:
 
-- [Boop](https://github.com/PrintersForAnts/Boop) by `MasterMynd` 
-- [Peck](https://github.com/chirpy2605/voron/tree/main/general/Experimental/Peck) by `chirpy2605` 
-- [DragonBurner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by `chirpy2605`
+- [Yavoth Toolhead](https://github.com/chirpy2605/voron) by `chirpy2605`
+- [Belt Clips](https://github.com/zruncho3d/vampire_bat) by `zruncho3d`
 - Inspiration from Voron Trident and is derived from Tiny-T frame dimensions
