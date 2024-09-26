@@ -9,14 +9,14 @@
 | Enclosure        | Yes, flush |
 | Door             | Fold-down |
 | Bed Leveling     | 3-point Automatic |
-| Z Accuracy       | ~0.0004mm |
-| A/B Voltage      | 48v 🔰 |
+| Z Accuracy       | 0.1µm within a range of 6µm |
+| A/B Voltage      | 24v or 48v 🔰 |
 | Belts            | 2MGT (GT3) |
 | Toolhead Board   | EBB36 |
 | Mainboard        | E3EZ |
 | Host CPU         | Pi CM4 |
 | Extruder         | G2 |
-| Hotend Cooling   | 30x10 Axial |
+| Hotend Cooling   | 25x10 Axial |
 | Part Cooling     | Dual 40x10 Blowers |
 | Hardware         | M3 SHCS 98% |
 | Nozzle           | High-flow |

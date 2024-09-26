@@ -15,20 +15,21 @@
 | 6        | 5mm Ø Steel Rod 80mm length                 | Z kinematics       | Amazon, Ali                         |
 | 3        | Steel balls 10mm M4 threaded (magnetic)     | Z kinematics       | Filastruder, Amazon, Ali            |
 | 6        | High-temp magnets 20x10x5mm (SaCo)          | Z kinematics       | Specialty, Ali                      |
+| 6        | High-temp magnets 0.5x0.25x0.125in (SaCo)   | Magnetic toolhead  | Specialty, Ali                      |
 | 1        | 180mm² or 185mm² MIC6 bed                   | Bed                | Mandala Rose Works                  |
 | 1        | 180mm² PEI flex build plate                 | Bed                | Prusa, DFH, KB3D, Fabreeko, West3D  |
-| 1        | 150mm² 300w AC heating pad and SSR          | Bed                | KB3D                                |
-| 1        | Extruder of your choice                     | Extruder           | DFH, KB3D, Fabreeko, West3D, Ali    |
-| 1        | Hotend of your choice                       | Hotend             | DFH, KB3D, Fabreeko, West3D, Ali    |
+| 1        | 150mm² 300w AC heating pad                  | Bed                | KB3D                                |
+| 1        | Galileo2 recommended                        | Extruder           | DFH, KB3D, Fabreeko, West3D, Ali    |
+| 1        | E3D Revo PZ High-flow recommended           | Hotend             | DFH, KB3D, Fabreeko, West3D, Ali    |
 | 2        | 4010 24V blower fan                         | Part cooling       | DFH, Fabreeko, West3D, Ali          |
-| 1        | 3010 24V blower fan                         | Hotend cooling     | Amazon, DFH, Fabreeko, West3D, Ali  |
+| 1        | 2510 24V blower fan                         | Hotend cooling     | Amazon, DFH, Fabreeko, West3D, Ali  |
 | 4        | Rubber amplifier feet                       |                    | Amazon, Ali                         |
 | 1        | BTT E3EZ 5 stepper control board            | Electronics        | BIQU, Amazon, Ali                   |
 | 1        | BTT EBB36 CAN toolhead board                | Electronics        | BIQU, Amazon, Ali                   |
 | 3        | BTT EZ Driver EZ2209                        | Electronics        | BIQU, Amazon, Ali                   |
 | 2        | BTT EZ Driver EZ5160 RGB                    | Electronics        | BIQU, Amazon, Ali                   |
 | 1        | SSR Relay                                   | Electronics        | Amazon, Ali                         |
-| 2        
+| 2        | Daylight on a stick                         | Electronics        | DFH, KB3D, Fabreeko, West3D         |
 
 
 TBD M3 SHCS counts
