@@ -30,7 +30,7 @@ Prototype build log on Discord here: #"jv's Mini-V a custom compact 180³ build 
 - [Specs](./docs/Specs.md) for detailed specifications
 - [BOM](./docs/BOM.md) for bill of materials
 - [Printing Parts](./docs/PrintingParts.md) for slicer settings and print tips
-- [Build Guide](./docs/BOM.md) for step-by-step build instructions
+- [Build Guide](./docs/BuildGuide.md) for step-by-step build instructions
 - [Startup Config](./docs/StartupConfig.md) for Klipper configuration and startup routine
 - [RepRap History](./docs/RepRapHistory.md) for how this open source printer evolved
 - [TODO](./docs/TODO.md) for remaining design areas
