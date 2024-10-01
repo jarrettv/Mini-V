@@ -6,6 +6,7 @@ Warning: this guide is a work-in-progress
 
 * Use an ultra flat surface for assembly of frame
 * Take a file or flattening stone to all mating surfaces, including all clips
+* Panel clips should be snapped in diagonally towards the extrusion
 
 ## Gather Hardware
 See [BOM](./docs/BOM) for Bill of Materials
@@ -16,12 +17,15 @@ See [Printing Parts](./docs/PrintingParts)
 ## Heat Sets
 * Grab some coffee, I hope you like putting in heat sets as there are many
 
-Note: all clips should be pushed in diagonally towards the extrusion
-
 ## 🔁 Build left side
 * Assemble 2 uprights and the bottom extrusion using blind joints M5x16 (2)  
   * (optional) Bottom of bottom extrusion will need (2) T-nuts
   * You should have a U shape
+
+<p align="center">
+  <img width="600" src="images/0_Uframe.jpg">
+</p>
+
 ### Building Z0 axis
 * Add the Z0 motor mount using a M3x30 (1) side and M3x8 (1) screw on top
   * Note: leave these screws slightly loose until the final frame tighten
