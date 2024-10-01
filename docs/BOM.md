@@ -9,9 +9,10 @@
 | 24       | F695 Bearings                               | Motion             | Filastruder                         |
 | 2        | NEMA 17 stepper motors                      | A/B motors         | SteppersOnline, LDO                 |
 | 3        | NEMA 17 steppers w/ 200mm lead screw        | Z motors           | SteppersOnline, LDO                 |
-| 2        | 5mm Ø Carbon Fiber Rod 270mm length         | X-rail backer      | Amazon, Ali                         |
-| 4        | 5mm Ø Steel Rod 270mm length                | Y-rail backer      | Amazon, Ali                         |
-| 4        | 5mm Ø Steel Rod 280mm length                | Rear backer        | Amazon, Ali                         |
+| 3        | 5mm Ø Carbon Fiber Rod 280mm length         | X-rail backer      | Amazon, Ali                         |
+| 1        | 5mm Ø Carbon Fiber Rod 269mm length         | Door hinge         | Amazon, Ali                         |
+| 4        | 5mm Ø Steel Rod 269mm length                | Y-rail backer      | Amazon, Ali                         |
+| 4        | 5mm Ø Steel Rod 279mm length                | Rear backer        | Amazon, Ali                         |
 | 6        | 5mm Ø Steel Rod 80mm length                 | Z kinematics       | Amazon, Ali                         |
 | 3        | Steel balls 10mm M4 threaded (magnetic)     | Z kinematics       | Filastruder, Amazon, Ali            |
 | 6        | High-temp magnets 20x10x5mm (SaCo)          | Z kinematics       | Specialty, Ali                      |
@@ -30,6 +31,10 @@
 | 2        | BTT EZ Driver EZ5160 RGB                    | Electronics        | BIQU, Amazon, Ali                   |
 | 1        | SSR Relay                                   | Electronics        | Amazon, Ali                         |
 | 2        | Daylight on a stick                         | Electronics        | DFH, KB3D, Fabreeko, West3D         |
+| 17       | M5x16 BHCS                                  | Hardware           | McMaster, BoltDepot, Ali            |
+| ???      | M3x4x5 Heat inserts
+
+
 
 
 TBD M3 SHCS counts

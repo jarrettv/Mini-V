@@ -13,36 +13,64 @@ See [BOM](./docs/BOM) for Bill of Materials
 ## Print Parts
 See [Printing Parts](./docs/PrintingParts)
 
+## Heat Sets
+* Grab some coffee, I hope you like putting in heat sets as there are many
+
+Note: all clips should be pushed in diagonally towards the extrusion
 
 ## 🔁 Build left side
 * Assemble 2 uprights and the bottom extrusion using blind joints M5x16 (2)  
   * (optional) Bottom of bottom extrusion will need (2) T-nuts
   * You should have a U shape
-### Building Z1 axis
-* Add the Z1 motor mount using a M3x35 (1) side and M3x8 (1) screw on top
+### Building Z0 axis
+* Add the Z0 motor mount using a M3x30 (1) side and M3x8 (1) screw on top
+  * Note: leave these screws slightly loose until the final frame tighten
 * Loosly mount Z-rail clips using M3x10 (4)
-* Check the panel screw clip, door mount clip M3x8 (1), and LED clips are in proper spots
+  * Order from bottom up
+    * bed_Front_Z_Rail_Mount, M3x10
+    * panels_Clip
+    * bed_Front_Z_Rail_Mount_B_Mount (lower), M3x10
+    * panels_Clip
+    * bed_Front_Z_Rail_Mount, M3x10
+    * panels_Clip_Door_Hinge_Latch_Left, M3x8
+    * bed_Front_Z_Rail_Mount_A_Mount (upper), M3x10
+    * panels_Clip_LED_Stick_A
+  * Note: depending on your printer tolerance, you may need to opt for a few short clips
+  * Add image here
 * Add the z-rail to clips using M3x6 (8)
+  * Note: don't tighten down until all screws are in
+  * Note: add your clip so carriage doesn't fall out when flipping upside down
 * Tighten down Z-rail clips using ball end hex
   * Note: the top clip should line-up or you may need to adjust the clips
 ### Rear E-bay mount
-* Add T-nuts to high-voltage ebay part using M3x8 (2)
-* Roll-in a bottom T-nut in position then slide on ebay part and fasten bottom with M3x10 (1)
+* Note: leave these screws for the Ebay mount loose until later, otherwise it might tweak the frame
+* Add T-nuts to high-voltage ebay part using M3x10 (1) side middle and M3x6 (1) side top
+* Roll-in a bottom T-nut in position then slide on ebay part and fasten bottom with M3x8 (1)
 ### Y Rail mount
-* Slide 269mm (2) steel rods into Y-rail mount
-* Fasten the Y-rail to get proper spacing
+* Slide 269mm (2) steel rods into Y-rail mount (2)
+  * Note: check the length is not longer than 270 (show pic)
+* Fasten the Y-rail using M3x6 (10) to get proper spacing
   * Note: your Y-rail needs to be cut precisely for this design
-* Add T-nuts to each each using M3x10 (2) then slide-in between extrusions
-* Use calipers and set to 119.5mm from top extrusion to top of mount
-  * Note: you should see 245mm from bottom
+* Add T-nuts to each using M3x10 (2) then slide-in between extrusions
+* Use calipers and set to 140mm from very top to top of mount
+  * Note: you should see 245mm from lower extrustion to bottom of mount
+  * Note: this is a critical measurement for this build so take your time to get it right
+  * Add diagram
 * Tighten down Y-rail mount on both sides
 * 🔰 Add additional clips above, use a short clip if necessary to have exactly 20mm left on top
 ### Front and rear idlers
-* Flatten mating surfaces and screw together the motor idler using M3x20 (1) and a M3x35 (1)
+* Flatten mating surfaces and screw together the motor idler using M3x20 (2)
+  * Note: don't add the bearing stacks until after it is mounted
 * Screw motor idler to rear using M3x8 (4)
 * Flatten mating surfaces and screw together front idler using M3x20 (1)
 * Screw front idler to front using M3x8 (4)
-* Add additional clips as shown in diagram
+* Add additional clips as shown in diagram (?)
+### XY Joint
+* Flatten mating surfaces and screw together the XY Joint using M3x20 (1)
+  * Note: Your choice to have screws come from top or bottom
+* Screw XY Joint onto Y Rail using M3x6 (4) FHCS
+  * Note: You can add bearing stacks later
+
 ### Finish clips and side frame
 * Add the top extrusion using the blind joints M5x16 (2)
   * (optional) Top extrusion will need (2) T-nuts
@@ -51,24 +79,74 @@ See [Printing Parts](./docs/PrintingParts)
 * Repeat all left side steps (mirror)
 
 ## Join sides and finish frame
-* Add the motors to the motor mount using M3x35 (4) and M3x10 (4)
+* Add the motors to the motor mount using M3x35 (4) and M3x8 (4)
   * Note: wires should exit towards outside
-* Slide motors onto rear steel rods (2)
-* Slide rods into motor idler and join left and right side
+* Slide motors onto rear 279mm steel rods (2)
+* Bring the two sides together by sliding rods into motor idler and on each side
 * Finish the frame on a flat surface using blind joints and M5x16 (8)
+  * Note: ensure frame is square
+  * Tighten all the screws you left loose
   * Congrats, it is starting to look like a printer
 
 ## Rear Z Motor Mount
-* Use a 5mm reamer on all the parts prior to joining them together
+* Note: Depending on printer tolerance, use a 5mm reamer on all the parts prior to joining them together
 * Start with the Z1 motor mount and add the metal 280mm rods
-*  and then hammer the parts together, they should have a tight fit
-
+  * Note: For the following rail mounts:
+    * Consider sanding the mating edges
+    * The parts should
+* Here is the order top to bottom, you'll put bottom in first:
+  * bed_Z1_Rail_Mount_top
+  * bed_Z1_Rail_Mount
+  * bed_Z1_Rail_Mount_Wire_Manage
+  * bed_Z1_Rail_Mount
+  * bed_Z1_Rail_Mount
 * Use M3x20 (2) for lower screws, leave loose
 * Measure 135mm to center of rear screw from both side extrusions
-* Use M3x6 (1) and leave it loose too, you need to slide side to side for the next few steps
+* Use M3x6 (1) and leave it loose too, you need to slide side to side to finalize the fit
+
+## Clamp
+* Install the mid-panels to help center the Rear Z Motor Mount
+* Add the tensioner knobs from behind into the Top Tensioner Clamp using M5 nuts (2)
+* Use calipers and a square to ensure the Z1 rail is plumb
 
 
-<span style="color:tomato;font-weight:bold">🚩 The following steps may be out of order or for early prototype designs</span>
+## X-Rail
+* Build the X-Rail backer using 280mm carbon rods (2)
+  * Add a picture here
+* Mount the X-Rail (choose your best rail) using M3x8 (8)
+  * Note: make sure you center things before screwing to the XY Joints
+* Screw X-Rail Backer to XY-Joints M3x8 (4)
+
+## Belts
+* Route the belts like any standard Core-XY machine
+* If you haven't put the motor tensioners in, put them in now
+* ProTip: leave the front XY bearing out while routing belts and leave the front motor idlers bearings out
+* Add picture
+
+
+## Add Z Motors and feet
+* Turn the printer upside down
+* Mount all three integrated lead-screw motors using M3x6 (9)
+
+## Add the feet
+* Add the foot spacers (4)
+* Each foot requires a M4 thumbscrew (4) and M3x16 (4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Front Idlers
 * Sand mating surfaces
@@ -158,13 +236,6 @@ See [Printing Parts](./docs/PrintingParts)
 * Note: there is very little clearance here and the pully will rub CF rod if you aren't careful 
 * It is best to route the belts prior to putting top of motor mounts on
 
-## Belts
-* Route the belts like any standard Core-XY machine
-* If you haven't put the motor tensioners in, put them in now
-* ProTip: add some lube so the tensioners slide easier
-* Once loosly routed, put the top motor mount cover on
-* Note: be careful with your bearing stacks and the belts
-* Note: this is pretty tricky so take your time
 
 ## Belt Tension
 * Put M3x35 (2) into the motors but don't tighten yet
