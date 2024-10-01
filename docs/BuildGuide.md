@@ -23,7 +23,7 @@ See [Printing Parts](./docs/PrintingParts)
   * You should have a U shape
 
 <p align="center">
-  <img width="600" src="images/0_Uframe.jpg">
+  <img width="600" src="../images/00_Uframe.jpg">
 </p>
 
 ### Building Z0 axis
@@ -38,30 +38,54 @@ See [Printing Parts](./docs/PrintingParts)
     * bed_Front_Z_Rail_Mount, M3x10
     * panels_Clip_Door_Hinge_Latch_Left, M3x8
     * bed_Front_Z_Rail_Mount_A_Mount (upper), M3x10
-    * panels_Clip_LED_Stick_A
-  * Note: depending on your printer tolerance, you may need to opt for a few short clips
-  * Add image here
+    
+<p align="center">
+  <img width="600" src="../images/01_Z0_clips.jpg">
+</p>
+
 * Add the z-rail to clips using M3x6 (8)
   * Note: don't tighten down until all screws are in
   * Note: add your clip so carriage doesn't fall out when flipping upside down
 * Tighten down Z-rail clips using ball end hex
   * Note: the top clip should line-up or you may need to adjust the clips
-### Rear E-bay mount
+
+<p align="center">
+  <img width="600" src="../images/02_Z0_rail.jpg">
+</p>
+
+### Rear E-bay mount (low voltage)
 * Note: leave these screws for the Ebay mount loose until later, otherwise it might tweak the frame
 * Add T-nuts to high-voltage ebay part using M3x10 (1) side middle and M3x6 (1) side top
+
+<p align="center">
+  <img width="600" src="../images/03_ebay_tnuts.jpg">
+</p>
+
 * Roll-in a bottom T-nut in position then slide on ebay part and fasten bottom with M3x8 (1)
+
+
 ### Y Rail mount
 * Slide 269mm (2) steel rods into Y-rail mount (2)
-  * Note: check the length is not longer than 270 (show pic)
+  * Note: check the length is not longer than 270
+
+<p align="center">
+  <img width="600" src="../images/04_y_rail_check.jpg">
+</p>
+
 * Fasten the Y-rail using M3x6 (10) to get proper spacing
   * Note: your Y-rail needs to be cut precisely for this design
 * Add T-nuts to each using M3x10 (2) then slide-in between extrusions
 * Use calipers and set to 140mm from very top to top of mount
   * Note: you should see 245mm from lower extrustion to bottom of mount
   * Note: this is a critical measurement for this build so take your time to get it right
-  * Add diagram
+  * TODO: Add diagram
 * Tighten down Y-rail mount on both sides
-* 🔰 Add additional clips above, use a short clip if necessary to have exactly 20mm left on top
+
+<p align="center">
+  <img width="600" src="../images/05_y_rail_install.jpg">
+</p>
+
+
 ### Front and rear idlers
 * Flatten mating surfaces and screw together the motor idler using M3x20 (2)
   * Note: don't add the bearing stacks until after it is mounted
