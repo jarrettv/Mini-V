@@ -3,7 +3,7 @@
 > [!CAUTION]
 > This build guide is a work-in-progress
 
-## Tips
+## General Tips
 
 * Use an ultra flat surface for assembly of frame
 * Take a file or flattening stone to all mating surfaces, including all clips
@@ -108,33 +108,31 @@ See [Printing Parts](./docs/PrintingParts)
 </p>
 
 * Build a single stack bearing using F695 (2) and the plastic washer/clip should pop on the top
-* Add the single stack bearing using M3x35 (1) to the front idler
+  * Add the single stack bearing using M3x30 (1) to the front idler
 
 <p align="center">
-  <img width="600" src="../images/08_single_stack.jpg">
+  <img width="600" src="../images/08_single_double_stack.jpg">
 </p>
-
-* For the guilder, you'll need to assemble while adding the parts as you feed the M3x35 (1) screw
-* Note: there is a mini plastic washer for the guilder
 
 * Build a double stack bearing using F695 (4), M5 washers (2) and the plastic washer clip will pop on top keeping everything together
+  * Add the double stack bearing using M3x30 to the rear motor idler back corner
+
 
 <p align="center">
-  <img width="600" src="../images/09_double_stack.jpg">
+  <img width="600" src="../images/09_bearings.jpg">
 </p>
 
-* Add the double stack bearing using M3x35 to the rear motor idler back corner
+* Assemble the guilder with the F623-RS (2) bearings in place and use M3x30 (1) screw
+* Note: there is a mini plastic washer for the guilder, flip printer orientation to make things easier
 
-<p align="center">
-  <img width="600" src="../images/10_bearings.jpg">
-</p>
 
 ### XY Joint
 * Flatten mating surfaces and screw together the XY Joint using M3x20 (1)
 * Screw XY Joint onto Y Rail using M3x6 (4) FHCS
-
-### Add bearings some of the bearings
-
+  * Note: you'll need a 2mm ball-end hex driver for the front two screws
+* Build a single stack bearing using F695 (2) and the plastic washer/clip should pop on the top
+  * Add the single stack bearing using M3x30 (1) to the front idler
+  * Note: it should be in opposite orientation of other single stacks
 
 ### Finish clips and side frame
 * Add the top extrusion using the blind joints M5x16 (2)
