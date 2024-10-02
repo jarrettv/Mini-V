@@ -107,9 +107,6 @@ See [Printing Parts](./docs/PrintingParts)
   <img width="600" src="../images/07_rear_idler.jpg">
 </p>
 
-* Build a single stack bearing using F695 (2) and the plastic washer/clip should pop on the top
-  * Add the single stack bearing using M3x30 (1) to the front idler
-
 > [!IMPORTANT]  
 > The front and rear idlers add rigidity by clamping around the extrusion
 
@@ -117,17 +114,18 @@ See [Printing Parts](./docs/PrintingParts)
   <img width="600" src="../images/08_single_double_stack.jpg">
 </p>
 
+* Build a single stack bearing using F695 (2) and the plastic washer/clip should pop on the top
+  * Add the single stack bearing using M3x30 (1) to the front idler
+
 * Build a double stack bearing using F695 (4), M5 washers (2) and the plastic washer clip will pop on top keeping everything together
   * Add the double stack bearing using M3x30 to the rear motor idler back corner
-
-
-<p align="center">
-  <img width="600" src="../images/09_bearings.jpg">
-</p>
 
 * Assemble the guilder with the F623-RS (2) bearings in place and use M3x30 (1) screw
 * Note: there is a mini plastic washer for the guilder, flip printer orientation to make things easier
 
+<p align="center">
+  <img width="600" src="../images/09_bearings.jpg">
+</p>
 
 ### XY Joint
 * Flatten mating surfaces and screw together the XY Joint using M3x20 (1)
@@ -137,16 +135,31 @@ See [Printing Parts](./docs/PrintingParts)
   * Add the single stack bearing using M3x30 (1) to the front idler
   * Note: it should be in opposite orientation of other single stacks
 
-### Finish clips and side frame
+<p align="center">
+  <img width="600" src="../images/10_xy_joint.jpg">
+</p>
+
+### Add top extrusion
 * Add the top extrusion using the blind joints M5x16 (2)
   * (optional) Top extrusion will need (2) T-nuts
 
+<p align="center">
+  <img width="600" src="../images/11_left_side_done.jpg">
+</p>
+
 ## 🔁 Build right side
-* Repeat all left side steps (mirror)
+* Repeat all left side steps but mirror everything (Z2 motor mount)
+
+<p align="center">
+  <img width="600" src="../images/12_both_sides_done.jpg">
+</p>
+
+
+> [!CAUTION]
+> There is a small error in the image above where right side has guilder in wrong spot
+
 
 ## Join sides and finish frame
-* Add the motors to the motor mount using M3x35 (4) and M3x8 (4)
-  * Note: wires should exit towards outside
 * Slide motors onto rear 279mm steel rods (2)
 * Bring the two sides together by sliding rods into motor idler and on each side
 * Finish the frame on a flat surface using blind joints and M5x16 (8)
@@ -198,8 +211,11 @@ See [Printing Parts](./docs/PrintingParts)
 
 ## Belts
 * Install the pulleys on the A and B motors, use a single bearing stack to help set the proper height
+
+
+
 * Add the A and B motors to the rear moto mounts using M3x35 (4) and M3x10 (4)
-  * Note: you shoul
+  * Note: the motor wires should exit towards the side extrusion
 * At this point you are still missing some bearings in the rear and the XY joints, this will make routing easier
 * Route the belts like any standard Core-XY machine (link to youtube here)
   * Summary: route one side, leaving some slack (try to account for missing bearings)
