@@ -121,7 +121,7 @@ See [Printing Parts](./docs/PrintingParts)
   * Add the double stack bearing using M3x30 to the rear motor idler back corner
 
 * Assemble the guilder with the F623-RS (2) bearings in place and use M3x30 (1) screw
-* Note: there is a mini plastic washer for the guilder, flip printer orientation to make things easier
+* Note: there is a mini plastic washer for the guilder
 
 <p align="center">
   <img width="600" src="../images/09_bearings.jpg">
@@ -162,10 +162,20 @@ See [Printing Parts](./docs/PrintingParts)
 ## Join sides and finish frame
 * Slide motors onto rear 279mm steel rods (2)
 * Bring the two sides together by sliding rods into motor idler and on each side
+
+<p align="center">
+  <img width="600" src="../images/12_both_sides_done.jpg">
+</p>
+
 * Finish the frame on a flat surface using blind joints and M5x16 (8)
   * Note: ensure frame is square
   * Tighten all the screws you left loose
   * Congrats, it is starting to look like a printer
+
+<p align="center">
+  <img width="400" src="../images/13_frame_done.jpg">
+  <img width="400" src="../images/13_frame_done2.jpg">
+</p>
 
 ## X-Rail
 * Build the X-Rail backer using 280mm carbon rods (2)
