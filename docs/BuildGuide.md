@@ -17,6 +17,9 @@ See [Printing Parts](./docs/PrintingParts)
 ## Heat Sets
 * Grab some coffee, I hope you like putting in heat sets as there are many
 
+> [!NOTE]  
+> You can build the left side of the printer, then the right side, or build them in parallel
+
 ## 🔁 Build left side
 * Assemble 2 uprights and the bottom extrusion using blind joints M5x16 (2)  
   * (optional) Bottom of bottom extrusion will need (2) T-nuts
@@ -87,17 +90,48 @@ See [Printing Parts](./docs/PrintingParts)
 
 
 ### Front and rear idlers
-* Flatten mating surfaces and screw together the motor idler using M3x20 (2)
-  * Note: don't add the bearing stacks until after it is mounted
-* Screw motor idler to rear using M3x8 (4)
 * Flatten mating surfaces and screw together front idler using M3x20 (1)
-* Screw front idler to front using M3x8 (4)
-* Add additional clips as shown in diagram (?)
+  * Screw front idler to front using M3x8 (4)
+
+<p align="center">
+  <img width="600" src="../images/06_front_idler.jpg">
+</p>
+
+* Flatten mating surfaces and screw together the motor idler using M3x20 (2)
+  * Screw motor idler to rear using M3x8 (4)
+  
+<p align="center">
+  <img width="600" src="../images/07_rear_idler.jpg">
+</p>
+
+* Build a single stack bearing using F695 (2) and the plastic washer/clip should pop on the top
+* Add the single stack bearing using M3x35 (1) to the front idler
+
+<p align="center">
+  <img width="600" src="../images/08_single_stack.jpg">
+</p>
+
+* For the guilder, you'll need to assemble while adding the parts as you feed the M3x35 (1) screw
+* Note: there is a mini plastic washer for the guilder
+
+* Build a double stack bearing using F695 (4), M5 washers (2) and the plastic washer clip will pop on top keeping everything together
+
+<p align="center">
+  <img width="600" src="../images/09_double_stack.jpg">
+</p>
+
+* Add the double stack bearing using M3x35 to the rear motor idler back corner
+
+<p align="center">
+  <img width="600" src="../images/10_bearings.jpg">
+</p>
+
 ### XY Joint
 * Flatten mating surfaces and screw together the XY Joint using M3x20 (1)
-  * Note: Your choice to have screws come from top or bottom
 * Screw XY Joint onto Y Rail using M3x6 (4) FHCS
-  * Note: You can add bearing stacks later
+
+### Add bearings some of the bearings
+
 
 ### Finish clips and side frame
 * Add the top extrusion using the blind joints M5x16 (2)
