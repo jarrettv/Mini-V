@@ -1,6 +1,7 @@
 # Build Steps for Mini-V
 
-Warning: this guide is a work-in-progress
+> [!CAUTION]
+> This build guide is a work-in-progress
 
 ## Tips
 
@@ -17,7 +18,7 @@ See [Printing Parts](./docs/PrintingParts)
 ## Heat Sets
 * Grab some coffee, I hope you like putting in heat sets as there are many
 
-> [!NOTE]  
+> [!Tip]  
 > You can build the left side of the printer, then the right side, or build them in parallel
 
 ## 🔁 Build left side
@@ -78,16 +79,18 @@ See [Printing Parts](./docs/PrintingParts)
 * Fasten the Y-rail using M3x6 (10) to get proper spacing
   * Note: your Y-rail needs to be cut precisely for this design
 * Add T-nuts to each using M3x10 (2) then slide-in between extrusions
+
+> [!CAUTION]
+> The following steps requires precise measurements, so take your time
+
 * Use calipers and set to 140mm from very top to top of mount
   * Note: you should see 245mm from lower extrustion to bottom of mount
-  * Note: this is a critical measurement for this build so take your time to get it right
   * TODO: Add diagram
 * Tighten down Y-rail mount on both sides
 
 <p align="center">
   <img width="600" src="../images/05_y_rail_install.jpg">
 </p>
-
 
 ### Front and rear idlers
 * Flatten mating surfaces and screw together front idler using M3x20 (1)
