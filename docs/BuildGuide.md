@@ -150,6 +150,16 @@ See [Printing Parts](./docs/PrintingParts)
   * Tighten all the screws you left loose
   * Congrats, it is starting to look like a printer
 
+## X-Rail
+* Build the X-Rail backer using 280mm carbon rods (2)
+  * Add a picture here
+* Mount the X-Rail (choose your best rail) using M3x8 (8)
+  * Note: make sure you center things before screwing to the XY Joints
+* Screw X-Rail Backer to XY-Joints M3x8 (4)
+
+> [!NOTE]  
+> You can now test the gantry motion and ensure it feels smooth
+
 ## Rear Z Motor Mount
 * Note: Depending on printer tolerance, use a 5mm reamer on all the parts prior to joining them together
 * Start with the Z1 motor mount and add the metal 280mm rods
@@ -165,26 +175,31 @@ See [Printing Parts](./docs/PrintingParts)
 * Use M3x20 (2) for lower screws, leave loose
 * Measure 135mm to center of rear screw from both side extrusions
 * Use M3x6 (1) and leave it loose too, you need to slide side to side to finalize the fit
+* Install the E3EZ mount to the low voltage ebay mount using M3x8 (2)
+* Install the mid panels now help get the alignment of Z1
+  * Note: this assumes your mid panels are accurately cut, otherwise use calipers to get it center
 
-## Clamp
-* Install the mid-panels to help center the Rear Z Motor Mount
-* Add the tensioner knobs from behind into the Top Tensioner Clamp using M5 nuts (2)
-* Use calipers and a square to ensure the Z1 rail is plumb
+### Rear Z Motor Mount Clamp
+* Add the tensioner knobs from behind into the back clamp using M5 nuts (2)
+* Add your hex head M4x40 (2) into the back clamp to install the knobs
+* Slide the clamp down over the vertical rods while passing the horizontal rods
+  * Note: this part is tricky as you also need to line the hex head screws into motor mounts
+* It should seat onto the horizontal rods
+* Add the front of the clamp using M3x8 (4)
+* Before you completely tighten the clamp, check Z1 is centered and square with the frame
+* Tighten down the clamp and the Z1 Motor Mount
 
-
-## X-Rail
-* Build the X-Rail backer using 280mm carbon rods (2)
-  * Add a picture here
-* Mount the X-Rail (choose your best rail) using M3x8 (8)
-  * Note: make sure you center things before screwing to the XY Joints
-* Screw X-Rail Backer to XY-Joints M3x8 (4)
+> [!NOTE]  
+> At this point the Z1 rail should feel very rigid
 
 ## Belts
-* Route the belts like any standard Core-XY machine
-* If you haven't put the motor tensioners in, put them in now
-* ProTip: leave the front XY bearing out while routing belts and leave the front motor idlers bearings out
-* Add picture
-
+* At this point you are still missing some bearings in the rear and the XY joints, this will make routing easier
+* Route the belts like any standard Core-XY machine (link to youtube here)
+  * Summary: route one side, leaving some slack (try to account for missing bearings)
+  * Pull belt out and cut second belt to exact length
+  * Put both belts back in
+* Add the belts to clips using the M4x3x15 hollow tubes (2)
+* Fasten the belts in the clips using M3x10 BHCS (2) and 
 
 ## Add Z Motors and feet
 * Turn the printer upside down
