@@ -31,12 +31,14 @@
 | 2        | BTT EZ Driver EZ5160 RGB                    | Electronics        | BIQU, Amazon, Ali                   |
 | 1        | SSR Relay                                   | Electronics        | Amazon, Ali                         |
 | 2        | Daylight on a stick                         | Electronics        | DFH, KB3D, Fabreeko, West3D         |
+| 2        | M4 OD, M3 ID 30mm long steel tubes          | Belt clips         | DFH, Amazon, McMaster, Ali          |
+| 2        | GT2 20T Pulley                              | Hardware           | Amazon, Filastruder, DFH            |
 | 4        | M4 thumb screws                             | Hardware           | McMaster, BoltDepot, Ali            |
 | 2        | M5x40 hex head bolts                        | Hardware           | McMaster, BoltDepot, Ali            |
 | 2        | M5 nuts                                     | Hardware           | McMaster, BoltDepot, Ali            |
 | 17       | M5x16 BHCS                                  | Hardware           | McMaster, BoltDepot, Ali            |
 | 2        | M3x10 BHCS                                  | Hardware           | McMaster, BoltDepot, Ali            |
-| 200      | M3x4x5 Heat inserts                         | Hardware           | McMaster, BoltDepot, Ali            |
+| ~200     | M3x4x5 Heatset brass inserts                | Hardware           | McMaster, BoltDepot, Ali            |
 
 
 Mostly M3x6, M3x8, M3x10, M3x20, M3x30, M3x35

@@ -193,6 +193,9 @@ See [Printing Parts](./docs/PrintingParts)
 > At this point the Z1 rail should feel very rigid
 
 ## Belts
+* Install the pulleys on the A and B motors, use a single bearing stack to help set the proper height
+* Add the A and B motors to the rear moto mounts using M3x35 (4) and M3x10 (4)
+  * Note: you shoul
 * At this point you are still missing some bearings in the rear and the XY joints, this will make routing easier
 * Route the belts like any standard Core-XY machine (link to youtube here)
   * Summary: route one side, leaving some slack (try to account for missing bearings)
