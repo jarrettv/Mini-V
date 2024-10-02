@@ -110,6 +110,9 @@ See [Printing Parts](./docs/PrintingParts)
 * Build a single stack bearing using F695 (2) and the plastic washer/clip should pop on the top
   * Add the single stack bearing using M3x30 (1) to the front idler
 
+> [!IMPORTANT]  
+> The front and rear idlers add rigidity by clamping around the extrusion
+
 <p align="center">
   <img width="600" src="../images/08_single_double_stack.jpg">
 </p>
