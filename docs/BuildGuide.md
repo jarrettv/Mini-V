@@ -164,7 +164,7 @@ See [Printing Parts](./docs/PrintingParts)
 * Bring the two sides together by sliding rods into motor idler and on each side
 
 <p align="center">
-  <img width="600" src="../images/12_both_sides_done.jpg">
+  <img width="600" src="../images/13_join_sides.jpg">
 </p>
 
 * Finish the frame on a flat surface using blind joints and M5x16 (8)
@@ -173,8 +173,8 @@ See [Printing Parts](./docs/PrintingParts)
   * Congrats, it is starting to look like a printer
 
 <p align="center">
-  <img width="400" src="../images/13_frame_done.jpg">
-  <img width="400" src="../images/13_frame_done2.jpg">
+  <img width="400" src="../images/14_frame_done.jpg">
+  <img width="400" src="../images/14_frame_done2.jpg">
 </p>
 
 ## X-Rail
