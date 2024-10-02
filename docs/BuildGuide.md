@@ -207,19 +207,55 @@ See [Printing Parts](./docs/PrintingParts)
   * bed_Z1_Rail_Mount_Wire_Manage
   * bed_Z1_Rail_Mount
   * bed_Z1_Rail_Mount
+
+<p align="center">
+  <img width="600" src="../images/16_z1_stackup.jpg">
+</p>
+
+* Add the Z1 rail using M3x6 (11)
+
+> [!Tip]
+> Don't insert the top screw so you can leave the carriage saftey clip in place
+
+<p align="center">
+  <img width="600" src="../images/16_z1_rail.jpg">
+</p>
+
 * Use M3x20 (2) for lower screws, leave loose
 * Measure 135mm to center of rear screw from both side extrusions
 * Use M3x6 (1) and leave it loose too, you need to slide side to side to finalize the fit
 * Install the E3EZ mount to the low voltage ebay mount using M3x8 (2)
+
+<p align="center">
+  <img width="600" src="../images/17_main_board_mount.jpg">
+</p>
+
+
 * Install the mid panels now help get the alignment of Z1
   * Note: this assumes your mid panels are accurately cut, otherwise use calipers to get it center
+
+<p align="center">
+  <img width="600" src="../images/18_mid_panels.jpg">
+</p>
 
 ### Rear Z Motor Mount Clamp
 * Add the tensioner knobs from behind into the back clamp using M5 nuts (2)
 * Add your hex head M4x40 (2) into the back clamp to install the knobs
+  * Note: orient the knob so the plastic side is on the outside
+
+
+<p align="center">
+  <img width="600" src="../images/19_clamp_knobs.jpg">
+</p>
+
 * Slide the clamp down over the vertical rods while passing the horizontal rods
   * Note: this part is tricky as you also need to line the hex head screws into motor mounts
 * It should seat onto the horizontal rods
+
+<p align="center">
+  <img width="600" src="../images/20_clamp_slide.jpg">
+</p>
+
 * Add the front of the clamp using M3x8 (4)
 * Before you completely tighten the clamp, check Z1 is centered and square with the frame
 * Tighten down the clamp and the Z1 Motor Mount
