@@ -160,7 +160,7 @@ See [Printing Parts](./docs/PrintingParts)
 
 
 ## Join sides and finish frame
-* Slide motors onto rear 279mm steel rods (2)
+* Slide motor mounts onto rear 279mm steel rods (2)
 * Bring the two sides together by sliding rods into motor idler and on each side
 
 <p align="center">
@@ -179,13 +179,21 @@ See [Printing Parts](./docs/PrintingParts)
 
 ## X-Rail
 * Build the X-Rail backer using 280mm carbon rods (2)
-  * Add a picture here
 * Mount the X-Rail (choose your best rail) using M3x8 (8)
   * Note: make sure you center things before screwing to the XY Joints
-* Screw X-Rail Backer to XY-Joints M3x8 (4)
 
-> [!NOTE]  
-> You can now test the gantry motion and ensure it feels smooth
+<p align="center">
+  <img width="600" src="../images/15_x_rail.jpg">
+</p>
+
+* Screw X-Rail Backer to XY-Joints using M3x8 (4)
+
+<p align="center">
+  <img width="600" src="../images/15_x_rail_installed.jpg">
+</p>
+
+> [!Tip]  
+> You can now test the gantry motion by hand and ensure it feels smooth
 
 ## Rear Z Motor Mount
 * Note: Depending on printer tolerance, use a 5mm reamer on all the parts prior to joining them together
