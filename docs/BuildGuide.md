@@ -312,48 +312,75 @@ See [Printing Parts](./docs/PrintingParts)
   <img width="600" src="../images/23_belts.jpg">
 </p>
 
+### X-carriage
 
+* Remove the supports from the magnet areas
+* Add the 0.5x0.25x0.125" SaCo magnets (10), they should be a tight firm fit with zero wiggle room
 
+> [!NOTE]  
+> Make sure the polarity of each set of magnets are attracting together, otherwise you'll get poor hold
 
+* Screw it on the X-carriage using M3x8 (4) screws
+  * Note: I find the best print quality with a light tighten, too much and the carriage begins to rock
+* Now clip in the bels using the (self-made) pins (2) or M3x35 (2) screws
 
-## Add Z Motors
+### Tension belts and tramming
+
+* Start tightening the belts using the knobs in the back
+* Periodically check that all the belts are aligning on the bearings properly
+* Keep tightening the belts and periodically pluck the back belts to check the tone
+* Also, move the gantry as far back as possible
+  * If the XY joints are both touching the back equally, you did a good job!
+
+> [!IMPORTANT]  
+> We will dial in the belt tension later using our ShakeTune
+
+## Bed
 * Turn the printer upside down
 * Mount all three integrated lead-screw motors using M3x6 (9)
+* You can route the wires as you wish
+
+### Front Bed Rail Mounts
+* Add M5x80mm (2) steel rods to mounts using your favorite hammer like tool
+* Attach to rail using M3x8 (4)
+
+> [!IMPORTANT]  
+> The lead screw should be almost perfectly centered when at the lowest position
+
+* Next add POM nut, twist on and screw down using M3x8 (2)
+* Test the up and down movement has no binding
+
+### Kinematic Bed Mounts
+* Add the 5x10x20 strong magnets to carriers
+* Screw on the cover to keep magnets from sliding out
+* Slide onto the end of the 80mm steel rods
+
+### Bed Prep
+* If your bed doesn't have integrated magnets, add the magnet sheet to the top of the bed
+* Add the heater sheet to the underside of the bed
+  * Note: pay attention to the routing of the wires doesn't interfer with the rear middle mount
+* Use M4x10 (3) to screw on 10mm balls using 2 washers for spacing
+* Test fit bed and check that it fits firmly in place with very little movement
+  * The magnets should hold the bed firmly, even when upside down
 
 
+> [!CAUTION]
+> Not a problem, but a small amount of movement is possible if you yank on the bed
 
+### Bed wiring
+* Add some cable sleeve and route the wires thru the hole near the Z1 lead screw
+* Allow enough slack for the bed to move the full range but not so much it catches on anything
 
+## Electronics
 
-
-
-
-
-
-
-
-
-
-
-
+> [!CAUTION]
+> This build requires mains wiring, only proceed if you are certified to work with high voltages
 
 ## Bottom Panel
 * Panel should fit in under front motor connectors
 * Add clips
 * 
 
-## Front Bed Rail Mounts
-* Add M5x80mm (2) steel rods to mounts
-* Attach to rail using M3x8 (4)
-* Next add POM nut, twist on and screw down using M3x8 (2)
-* Note: top may tighter than bottom, that is normal it should square up
-* Test the up and down movement has no binding
-* Add the 5x10x20 strong magnets to carriers
-* Screw on the cover to keep magnets from sliding out
-* Add on to the 80mm steel rods
-
-## Bed Kinematics
-* Use M4x10 (3) to screw on 10mm balls using 2 washers for spacing
-* Test fit bed, should fit firmly in place with very little movement
 
 ## PSU
 * For each PSU mount, add some 3mm thick foam between bracket and deck panel
