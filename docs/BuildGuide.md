@@ -179,7 +179,6 @@ See [Printing Parts](./docs/PrintingParts)
 
 ## Feet
 
-
 * Add all four foot mounts using M3x6 (8) for LDO or M3x8 for taller foot mounts
 * Each foot requires a M4 thumbscrew (4) and M3x16 (4) for LDO or M3x20 for taller foot mounts
 
@@ -192,6 +191,11 @@ See [Printing Parts](./docs/PrintingParts)
 <p align="center">
   <img width="600" src="../images/14_foot_feature.jpg">
 </p>
+
+* Add the matching four top panel latches using M3x6 (8)
+
+> [!Tip]  
+> Your surface is now protected from scratches by your frame
 
 ## X-Rail
 * Build the X-Rail backer using 280mm carbon rods (2)
