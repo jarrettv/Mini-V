@@ -322,7 +322,7 @@ See [Printing Parts](./docs/PrintingParts)
 
 * Screw it on the X-carriage using M3x8 (4) screws
   * Note: I find the best print quality with a light tighten, too much and the carriage begins to rock
-* Now clip in the bels using the (self-made) pins (2) or M3x35 (2) screws
+* Now clip in the belts using the (self-made) pins (2) or M3x35 (2) screws
 
 ### Tension belts and tramming
 
@@ -330,30 +330,34 @@ See [Printing Parts](./docs/PrintingParts)
 * Periodically check that all the belts are aligning on the bearings properly
 * Keep tightening the belts and periodically pluck the back belts to check the tone
 * Also, move the gantry as far back as possible
-  * If the XY joints are both touching the back equally, you did a good job!
+  * If there is an even gap behind both sides of the XY joints, you did a good job!
 
 > [!IMPORTANT]  
 > We will dial in the belt tension later using our ShakeTune
 
 ## Bed
 * Turn the printer upside down
+* Add the deck panel using the classic 3mm deck supports 
 * Mount all three integrated lead-screw motors using M3x6 (9)
 * You can route the wires as you wish
+
+<p align="center">
+  <img width="600" src="../images/24_deck_panel.jpg">
+</p>
 
 ### Front Bed Rail Mounts
 * Add M5x80mm (2) steel rods to mounts using your favorite hammer like tool
 * Attach to rail using M3x8 (4)
 
 > [!IMPORTANT]  
-> The lead screw should be almost perfectly centered when at the lowest position
+> The lead screw should be mostly centered when at the lowest position
 
 * Next add POM nut, twist on and screw down using M3x8 (2)
 * Test the up and down movement has no binding
 
 ### Kinematic Bed Mounts
-* Add the 5x10x20 strong magnets to carriers
-* Screw on the cover to keep magnets from sliding out
-* Slide onto the end of the 80mm steel rods
+* Add the SaCo magnets (6) to carriers, it should be a tight fit so they stay put
+* Slide onto the end of the 80mm steel rods closed end first
 
 ### Bed Prep
 * If your bed doesn't have integrated magnets, add the magnet sheet to the top of the bed
@@ -362,7 +366,6 @@ See [Printing Parts](./docs/PrintingParts)
 * Use M4x10 (3) to screw on 10mm balls using 2 washers for spacing
 * Test fit bed and check that it fits firmly in place with very little movement
   * The magnets should hold the bed firmly, even when upside down
-
 
 > [!CAUTION]
 > Not a problem, but a small amount of movement is possible if you yank on the bed
@@ -376,16 +379,32 @@ See [Printing Parts](./docs/PrintingParts)
 > [!CAUTION]
 > This build requires mains wiring, only proceed if you are certified to work with high voltages
 
-## Bottom Panel
-* Panel should fit in under front motor connectors
-* Add clips
-* 
+### PSU
+* For the thin PSU mount, add some 3mm thick foam between bracket and deck panel
+* Add the PSU mounts using M3x8 for both brackets, tighten the second bracket after a test fit
+* Mount the PSU to the bracket using M3x6 (2)
+
+<p align="center">
+  <img width="600" src="../images/28_psu.jpg">
+</p>
+
+### Main Board
+* Insert the E3EZ IO shield into the low voltage ebay mount
+* Line the E3EZ ports up and mount using M3x6 (4)
+
+### Mains Inlet
+* Pre wire the mains inlet and then insert it into the mount, it should snap in
+  * Don't forget to check that a fuse is installed
+* Roll-in 2 tnuts and mount the mains inlet using M3x10 (2)
+  * Grab the back panel and use for setting the perfect height
+
+> [!CAUTION]
+> Proceed to wire up Mini-V using Trident manual
+
+## CAN Toolhead
 
 
-## PSU
-* For each PSU mount, add some 3mm thick foam between bracket and deck panel
-* Add the PSU mounts using M3x8 for both brackets, tighten after a test fit
-* Make sure the PSU is snug against the high voltage side front Z motor bracket
+
 
 
 
