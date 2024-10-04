@@ -218,9 +218,7 @@ See [Printing Parts](./docs/PrintingParts)
 ## Rear Z Motor Mount
 * Note: Depending on printer tolerance, use a 5mm reamer on all the parts prior to joining them together
 * Start with the Z1 motor mount and add the metal 280mm rods
-  * Note: For the following rail mounts:
-    * Consider sanding the mating edges
-    * The parts should
+  * Note: Don't forget to sand the mating edges to avoid gaps
 * Here is the order top to bottom, you'll put bottom in first:
   * bed_Z1_Rail_Mount_top
   * bed_Z1_Rail_Mount
@@ -241,15 +239,14 @@ See [Printing Parts](./docs/PrintingParts)
   <img width="600" src="../images/16_z1_rail.jpg">
 </p>
 
-* Use M3x20 (2) for lower screws, leave loose
+* Use M3x20 (2) for lower screws of the Z1 motor mount, leave loose
 * Measure 135mm to center of rear screw from both side extrusions
-* Use M3x6 (1) and leave it loose too, you need to slide side to side to finalize the fit
+* Use M3x6 (1) on the back and leave it loose too, you need to slide side to side to finalize the fit
 * Install the E3EZ mount to the low voltage ebay mount using M3x8 (2)
 
 <p align="center">
   <img width="600" src="../images/17_main_board_mount.jpg">
 </p>
-
 
 * Install the mid panels now help get the alignment of Z1
   * Except for the very bottom, the Z Rail Mounts should flex to allow you to pop in the mid panel
@@ -280,6 +277,7 @@ See [Printing Parts](./docs/PrintingParts)
 * Add the front of the clamp using M3x8 (4)
 * Before you completely tighten the clamp, check Z1 is centered and square with the frame
 * Tighten down the clamp and the Z1 Motor Mount
+  * Note: later when we put the ebay tops on, you'll get an idea of well you did with centering
 
 > [!NOTE]  
 > At this point the Z1 rail should feel very rigid
@@ -288,7 +286,6 @@ See [Printing Parts](./docs/PrintingParts)
 * Install the pulleys on the A and B motors, use a single bearing stack to help set the proper height
 * Add the A and B motors to the rear moto mounts using M3x35 (4) and M3x10 (4)
   * Note: the motor wires should exit towards the side extrusion
-
 
 <p align="center">
   <img width="400" src="../images/21_b_motor.jpg">
@@ -305,12 +302,14 @@ See [Printing Parts](./docs/PrintingParts)
   <img width="600" src="../images/22_belt_clips.jpg">
 </p>
 
-* Add the belts to clips using the M4x3x15 hollow tubes (2)
-* Fasten the belts in the clips using M3x10 BHCS (2)
+* Add the belts to clips using the 4mm OD and 3mm ID by 15mm long hollow tubes (2)
+* Fasten the belts in the clips using M3x10 BHCS (2) and the Makerbeam XL rectangular nuts (2)
 
 <p align="center">
   <img width="600" src="../images/23_belts.jpg">
 </p>
+
+* Add in the missing single stack bearings in the XY joint and front of rear idler
 
 ### X-carriage
 
@@ -345,8 +344,9 @@ See [Printing Parts](./docs/PrintingParts)
   <img width="600" src="../images/24_deck_panel.jpg">
 </p>
 
-### Front Bed Rail Mounts
+### Z Carriage Mounts
 * Add M5x80mm (2) steel rods to mounts using your favorite hammer like tool
+  * The rods should end up just barely touchint the carriage so don't go too far
 * Attach to rail using M3x8 (4)
 
 > [!IMPORTANT]  
@@ -356,8 +356,12 @@ See [Printing Parts](./docs/PrintingParts)
 * Test the up and down movement has no binding
 
 ### Kinematic Bed Mounts
-* Add the SaCo magnets (6) to carriers, it should be a tight fit so they stay put
+* Add the SaCo or High-temp neodymium magnets (6) to carriers, it should be a tight fit so they stay put
+* Optional when magnets aren't snug, add a screw to keep the magnets in place
 * Slide onto the end of the 80mm steel rods closed end first
+
+> [!IMPORTANT]
+> You must use high-temp rated magnets or the bed won't hold-tight after multiple heat-cycles
 
 ### Bed Prep
 * If your bed doesn't have integrated magnets, add the magnet sheet to the top of the bed
@@ -368,7 +372,7 @@ See [Printing Parts](./docs/PrintingParts)
   * The magnets should hold the bed firmly, even when upside down
 
 > [!CAUTION]
-> Not a problem, but a small amount of movement is possible if you yank on the bed
+> Not a problem, but a small amount of movement is normal if you yank on the bed
 
 ### Bed wiring
 * Add some cable sleeve and route the wires thru the hole near the Z1 lead screw
