@@ -55,24 +55,25 @@ Many of the main parts are structural so we recommend a filled filament. Althoug
 - [x] gantry_Y_Rail_Mount_x4
 - [x] panels_Clip_Door_Hinge_Latch_Left_x1
 - [x] panels_Clip_Door_Hinge_Latch_Right_x1
-- [ ] panels_Clip_Dual_Mount_Wire_Slot_Right_x1
-- [ ] panels_Clip_Dual_Mount_x2
+- [x] panels_Clip_Dual_Mount_Wire_Slot_Right_x1
+- [x] panels_Clip_Dual_Mount_Wire_Slot_Left_x1
+- [x] panels_Clip_Dual_Mount_x2
 - [x] panels_Clip_LED_Stick_A_x2
 - [x] panels_Clip_LED_Stick_B_x2
 - [ ] panels_Clip_Long_x6
 - [x] panels_Clip_Magnet_Door_Latch_Left_x1
 - [x] panels_Clip_Magnet_Door_Latch_Right_x1
 - [ ] panels_Clip_Short_x2
-- [ ] panels_Clip_Single_Mount_x8
-- [ ] panels_Clip_x31
-- [ ] panels_Front_Door_Bottom_Rest_x2
-- [ ] panels_Front_Door_Hinge_Lower_Edge_Left_x1
-- [ ] panels_Front_Door_Hinge_Lower_Edge_Right_x1
-- [ ] panels_Front_Door_Hinge_Lower_Mid_Left_x1
-- [ ] panels_Front_Door_Hinge_Lower_Mid_Right_x1
-- [ ] panels_Front_Door_Hinge_Mid_x3
-- [ ] panels_Front_Door_Hinge_Upper_Left_x1
-- [ ] panels_Front_Door_Hinge_Upper_Right_x1
+- [x] panels_Clip_Single_Mount_x8
+- [x] panels_Clip_x31
+- [x] panels_Front_Door_Bottom_Rest_x2
+- [t] panels_Front_Door_Hinge_Lower_Edge_Left_x1
+- [t] panels_Front_Door_Hinge_Lower_Edge_Right_x1
+- [t] panels_Front_Door_Hinge_Lower_Mid_Left_x1
+- [t] panels_Front_Door_Hinge_Lower_Mid_Right_x1
+- [t] panels_Front_Door_Hinge_Mid_x3
+- [t] panels_Front_Door_Hinge_Upper_Left_x1
+- [t] panels_Front_Door_Hinge_Upper_Right_x1
 
 
 ## Accent parts
@@ -101,19 +102,19 @@ Most of these parts are designed for 0.4mm nozzle. Choose a bright color to make
 - [ ] gantry_[a]_Guidler_Spacer_x2
 - [ ] gantry_[a]_Guidler_Washer_x2
 - [ ] bed_[a]_Kinematic_Bed_Mount_Neo_SH_Large_x3
-- [ ] bed_[a]_Kinematic_Bed_Mount_SaCo_Small_x3
-- [ ] bed_[a]_Mag_Kinematic_Mount_Cover_x3
+- [-] bed_[a]_Kinematic_Bed_Mount_SaCo_Small_x3
+- [-] bed_[a]_Mag_Kinematic_Mount_Cover_x3
 - [ ] bed_[a]_Z1_Top_Tensioner_Knob_x2
 - [ ] ebay_[a]_E3EZ_IO_Shield_x1
-- [ ] ebay_[a]_Foot_Mount_(LDO)_x4
-- [ ] ebay_[a]_Foot_Mount_(taller)_x4
+- [t] ebay_[a]_Foot_Mount_(LDO)_x4
+- [-] ebay_[a]_Foot_Mount_(taller)_x4
 - [ ] ebay_[a]_PSU_LED_Mount_x2
 - [ ] panels_[a]_Door_Magnetic_Handle_x1
-- [ ] panels_[a]_Top_Latch_Mount_x4
+- [t] panels_[a]_Top_Latch_Mount_x4
 - [ ] panels_[a]_Top_Latch_Pick_x4
-- [ ] toolhead_Yavoth_Revo_PZ_Magnetic_Cowl_x1
-- [ ] toolhead_[a]_Dragon_Burner_V8_Mini-V_x1
-- [ ] toolhead_[a]_Yavoth_Magnetic_Cowl_x1
+- [x] toolhead_Yavoth_Revo_PZ_Magnetic_Cowl_x1
+- [-] toolhead_[a]_Dragon_Burner_V8_Mini-V_x1
+- [x] toolhead_[a]_Yavoth_Magnetic_Cowl_x1
 
 ## Mesh parts
 
