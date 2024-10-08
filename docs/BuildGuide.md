@@ -33,7 +33,7 @@ See [Printing Parts](./docs/PrintingParts)
 ### Building Z0 axis
 * Add the Z0 motor mount using a M3x30 (1) side and M3x8 (1) screw on top
   * Note: leave these screws slightly loose until the final frame tighten
-* Loosly mount Z-rail clips using M3x10 (4)
+* Loosely mount Z-rail clips using M3x10 (4)
   * Order from bottom up
     * bed_Front_Z_Rail_Mount, M3x10
     * panels_Clip
@@ -58,7 +58,7 @@ See [Printing Parts](./docs/PrintingParts)
 </p>
 
 ### Rear E-bay mount (low voltage)
-* Note: leave these screws for the Ebay mount loose until later, otherwise it might tweak the frame
+* Note: leave these screws for the ebay mount loose until later, otherwise it might tweak the frame
 * Add T-nuts to high-voltage ebay part using M3x10 (1) side middle and M3x6 (1) side top
 
 <p align="center">
@@ -84,7 +84,7 @@ See [Printing Parts](./docs/PrintingParts)
 > The following steps requires precise measurements, so take your time
 
 * Use calipers and set to 140mm from very top to top of mount
-  * Note: you should see 245mm from lower extrustion to bottom of mount
+  * Note: you should see 245mm from lower extrusion to bottom of mount
   * TODO: Add diagram
 * Tighten down Y-rail mount on both sides
 
@@ -233,7 +233,7 @@ See [Printing Parts](./docs/PrintingParts)
 * Add the Z1 rail using M3x6 (11)
 
 > [!Tip]
-> Don't insert the top screw so you can leave the carriage saftey clip in place
+> Don't insert the top screw so you can leave the carriage safety clip in place
 
 <p align="center">
   <img width="600" src="../images/16_z1_rail.jpg">
@@ -314,7 +314,7 @@ See [Printing Parts](./docs/PrintingParts)
 ### X-carriage
 
 * Remove the supports from the magnet areas
-* Add the 0.5x0.25x0.125" SaCo magnets (10), they should be a tight firm fit with zero wiggle room
+* Add the 0.5x0.25x0.125" SmCo magnets (10), they should be a tight firm fit with zero wiggle room
 
 > [!NOTE]  
 > Make sure the polarity of each set of magnets are attracting together, otherwise you'll get poor hold
@@ -346,7 +346,7 @@ See [Printing Parts](./docs/PrintingParts)
 
 ### Z Carriage Mounts
 * Add M5x80mm (2) steel rods to mounts using your favorite hammer like tool
-  * The rods should end up just barely touchint the carriage so don't go too far
+  * The rods should end up just barely touching the carriage so don't go too far
 * Attach to rail using M3x8 (4)
 
 > [!IMPORTANT]  
@@ -356,7 +356,7 @@ See [Printing Parts](./docs/PrintingParts)
 * Test the up and down movement has no binding
 
 ### Kinematic Bed Mounts
-* Add the SaCo or High-temp neodymium magnets (6) to carriers, it should be a tight fit so they stay put
+* Add the SmCo or High-temp neodymium magnets (6) to carriers, it should be a tight fit so they stay put
 * Optional when magnets aren't snug, add a screw to keep the magnets in place
 * Slide onto the end of the 80mm steel rods closed end first
 
@@ -366,7 +366,7 @@ See [Printing Parts](./docs/PrintingParts)
 ### Bed Prep
 * If your bed doesn't have integrated magnets, add the magnet sheet to the top of the bed
 * Add the heater sheet to the underside of the bed
-  * Note: pay attention to the routing of the wires doesn't interfer with the rear middle mount
+  * Note: pay attention to the routing of the wires doesn't interfere with the rear middle mount
 * Use M4x10 (3) to screw on 10mm balls using 2 washers for spacing
 * Test fit bed and check that it fits firmly in place with very little movement
   * The magnets should hold the bed firmly, even when upside down

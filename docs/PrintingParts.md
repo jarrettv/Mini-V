@@ -102,7 +102,7 @@ Most of these parts are designed for 0.4mm nozzle. Choose a bright color to make
 - [ ] gantry_[a]_Guidler_Spacer_x2
 - [ ] gantry_[a]_Guidler_Washer_x2
 - [ ] bed_[a]_Kinematic_Bed_Mount_Neo_SH_Large_x3
-- [-] bed_[a]_Kinematic_Bed_Mount_SaCo_Small_x3
+- [-] bed_[a]_Kinematic_Bed_Mount_SmCo_Small_x3
 - [-] bed_[a]_Mag_Kinematic_Mount_Cover_x3
 - [ ] bed_[a]_Z1_Top_Tensioner_Knob_x2
 - [ ] ebay_[a]_E3EZ_IO_Shield_x1
