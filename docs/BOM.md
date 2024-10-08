@@ -41,6 +41,13 @@
 | 17       | M5x16 BHCS                                | Hardware          | McMaster, BoltDepot, Ali           |
 | 2        | M3x10 BHCS                                | Hardware          | McMaster, BoltDepot, Ali           |
 | ~150     | M3x4x5 Heatset brass inserts              | Hardware          | McMaster, BoltDepot, Ali           |
+| 1        | 3mm Clear Top Panel 269x269               | Panels            | Hardware store, Amazon, Plastic    |
+| 2        | 3mm Clear side Panel 399x269              | Panels            | Hardware store, Amazon, Plastic    |
+| 1        | 3mm Clear Front Door Panel XXXx269        | Panels            | Hardware store, Amazon, Plastic    |
+| 1        | 3mm Clear Front Bottom Panel XXXx269      | Panels            | Hardware store, Amazon, Plastic    |
+| 1        | 3mm ACM Rear Panel 399x269                | Panels            | Hardware store, Amazon, Plastic    |
+| 1        | 3mm ACM Deck Panel 269x269                | Panels            | Hardware store, Amazon, Plastic    |
+| 2        | 3mm ACM Mid Panel 120x200                 | Panels            | Hardware store, Amazon, Plastic    |
 
 Mostly M3x6, M3x8, M3x10, M3x20, M3x30, M3x35 SHCS
 
