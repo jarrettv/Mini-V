@@ -24,4 +24,6 @@
 * __2024 April__ Blue and Mini-V alpha prints Mini-V pre-beta parts
 * __2024 April__ Mini-V pre-beta shown at RMRRF
 * __2024 June__ Beta files released as open source
+* __2024 Sept__ BOM, parts, and build guide updated
+* __2024 Oct__ Mini-V group build at VICE 2024 in Reno
 
