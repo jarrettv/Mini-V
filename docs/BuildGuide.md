@@ -250,6 +250,7 @@ See [Printing Parts](./docs/PrintingParts)
 
 * Install the mid panels now help get the alignment of Z1
   * Except for the very bottom, the Z Rail Mounts should flex to allow you to pop in the mid panel
+    * Start by pushing the panel into the inner flexible side as it should flex enough for you to clear the outer side
   * Note: this assumes your mid panels are accurately cut, otherwise use calipers to get it center
 
 <p align="center">
