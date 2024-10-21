@@ -7,7 +7,7 @@ _The design is stable with over 400 hours of print time on two alpha builds. As 
 **More images coming soon**
 
 <p align="center">
-  <img width="600" src="images/Mini-V_Front_sept_2024.jpg">
+  <img width="1000" src="images/Mini-V_Render.png">
 </p>
 
 - Easy to build 2020 box design ✅
@@ -35,7 +35,13 @@ Prototype build log on Discord here: #"jv's Mini-V a custom compact 180³ build 
 - [RepRap History](./docs/RepRapHistory.md) for how this open source printer evolved
 - [TODO](./docs/TODO.md) for remaining design areas
 
-## Adopted Community Designs
+## Community Design
+
+Custom magnetic Yavoth toolhead mod with integrated PZ board mount:
+
+<p align="center">
+  <img width="1000" src="images/Magnetic_toolhead.png">
+</p>
 
 Although Mini-V is almost a completely custom design, it does utilize the following community designs:
 

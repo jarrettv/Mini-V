@@ -75,6 +75,24 @@ Many of the main parts are structural so we recommend a filled filament. Althoug
 - [t] panels_Front_Door_Hinge_Upper_Left_x1
 - [t] panels_Front_Door_Hinge_Upper_Right_x1
 
+## Panel Clips (feature less)
+
+Any of the clips that don't have special features can be printed with 0.6 nozzle in vase mode for an even better snap-in feel. The following settings have been tested with ABS-GF, YMMV. Depending on your bed and toolhead size, you can print many in a batch using "Complete individual objects" setting.
+
+| Setting               | Value                       |
+| -----------           | --------------------------- |
+| Nozzle                | 0.6mm                       |
+| Filament              | ABS or ASA GF               |
+| Infill                | none                        |
+| Extrusion width       | 0.85mm forced width         |
+| Perimeters            | 1 *Spiral vase mode         |
+| Top layers            | 0                           |
+| Bottom layers         | 0                           |
+| Elephant foot comp.   | 0                           |
+
+- [x] panels_Clip_30mm_x10
+- [x] panels_Clip_45mm_x6
+- [x] panels_Clip_60mm_x12
 
 ## Accent parts
 
